@@ -35,4 +35,4 @@ That path means I know the users, the operations and the risk behind the feature
 
 ### Languages
 
-Arabic (native) · French (C1) · English (B2/C1)
+Arabic (native) · French (B2/C1) · English (B2/C1)
